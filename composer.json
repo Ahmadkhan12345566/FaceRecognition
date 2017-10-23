@@ -1,0 +1,16 @@
+{
+  "require":
+  {
+    "phpclasses/webcam-in-php": ">=1.0.4"
+  },
+  "repositories":
+  [
+    {
+      "type": "composer",
+      "url": "https:\/\/www.phpclasses.org\/"
+    },
+    {
+      "packagist": false
+    }
+  ]
+}
